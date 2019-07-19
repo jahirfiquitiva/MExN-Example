@@ -20,5 +20,5 @@ We leave the x in MExN for every one to use their preferred UI framework (React,
 
 - [Julian David Gonzalez Sánchez](https://github.com/judagonsa) : 201520025
 - [John Sebastian Mayorga Nova](https://github.com/jsmnss) : 201521221
-- [Jahir Fabian Fiquitiva Ricaurte](https://jahir.xyz) : 201521221
+- [Jahir Fabian Fiquitiva Ricaurte](https://jahir.xyz) : 201521721
 
